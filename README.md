@@ -9,10 +9,10 @@ A Custom button that pulses. It is an Objective-C port of [KDPulseButton](https:
 
 ### Usage
 - Add a UIButton on XIB / Storyboard from Interface Builder and change its class from UIButton to YBPulseButton.
-    * ![](https://github.com/YahyaBagia/YBPulseButton/blob/master/YBPulseButton/img_IdentityInspector.png)
+     ![](https://github.com/YahyaBagia/YBPulseButton/blob/master/YBPulseButton/img_IdentityInspector.png)
 
 - Customize its properties through Attribute Inspector.
-    * ![](https://github.com/YahyaBagia/YBPulseButton/blob/master/YBPulseButton/img_AttributeInspector.png)
+     ![](https://github.com/YahyaBagia/YBPulseButton/blob/master/YBPulseButton/img_AttributeInspector.png)
 
 - There are a few properties you may change:
     * **pulseColor** : the color of the pulse
