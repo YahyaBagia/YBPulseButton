@@ -17,11 +17,11 @@ A Custom button that pulses. It is an Objective-C port of [KDPulseButton](https:
 ![](https://github.com/YahyaBagia/YBPulseButton/blob/master/YBPulseButton/img_AttributeInspector.png)
 
 - There are a few properties you may change:
-1. pulseColor : the color of the pulse
-2. pulseRadius : the radius of the pulse
-3. pulseDuration : the duration of the pulse animation in seconds
-4. buttonColor : the color of the button
-5. cornerRadius : the radius of the button view
+* pulseColor : the color of the pulse
+* pulseRadius : the radius of the pulse
+* pulseDuration : the duration of the pulse animation in seconds
+* buttonColor : the color of the button
+* cornerRadius : the radius of the button view
 
 ### Requirements
 iOS 7.0+
