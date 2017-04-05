@@ -1,4 +1,4 @@
-## YBPulseButton
+# YBPulseButton
 A Custom button that pulses. It is an Objective-C port of [KDPulseButton](https://github.com/KaiqueDamato/KDPulseButton)
 
 ### Screenshot
